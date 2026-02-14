@@ -1,10 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title></title>
-        <link>//localhost:1313/</link>
-        <description>Recent content on </description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Siddharth Syal</title><link>https://siddsyal.io/</link><description>Recent content on Siddharth Syal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Siddharth Syal</copyright><lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://siddsyal.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://siddsyal.io/about/</link><pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate><guid>https://siddsyal.io/about/</guid><description>&lt;h2 id="hello-im-siddharth-"&gt;Hello, I&amp;rsquo;m Siddharth! 👋
+&lt;/h2&gt;&lt;p&gt;I&amp;rsquo;m a security engineer who spends most of my time looking for bugs in software. My job is essentially being professionally paranoid—someone has to worry about the edge cases nobody thought about at 3 AM during a deployment.&lt;/p&gt;
+&lt;h2 id="what-i-work-on"&gt;What I Work On
+&lt;/h2&gt;&lt;h3 id="-cryptography"&gt;🔐 Cryptography
+&lt;/h3&gt;&lt;p&gt;I spend a lot of time working with &lt;strong&gt;cryptography&lt;/strong&gt;, trying to understand encryption protocols and their implementations. You might say I&amp;rsquo;m somewhat &lt;em&gt;crypto-invested&lt;/em&gt; in learning how cryptographic systems work (and how they sometimes don&amp;rsquo;t). I&amp;rsquo;m still learning about cipher implementations and key management systems, which turns out to be way more complicated than &amp;ldquo;just encrypt it.&amp;rdquo;&lt;/p&gt;
+&lt;h3 id="-cross-site-scripting-xss"&gt;🎯 Cross-Site Scripting (XSS)
+&lt;/h3&gt;&lt;p&gt;My favorite area to explore is &lt;strong&gt;Cross-Site Scripting (XSS)&lt;/strong&gt; vulnerabilities. There&amp;rsquo;s something oddly satisfying about finding that one input field that nobody remembered to sanitize. I&amp;rsquo;m still figuring out all the variants—reflected, stored, DOM-based—and honestly, browser behavior keeps surprising me. Every time I think I understand how XSS works, I find a new filter bypass that makes me question everything again.&lt;/p&gt;
+&lt;h3 id="-bug-hunting"&gt;🐛 Bug Hunting
+&lt;/h3&gt;&lt;p&gt;I participate in bug bounty programs and try to contribute to the security community when I can. Still learning something new every day, usually the hard way. Each vulnerability found is a lesson learned and a system made more secure.&lt;/p&gt;
+&lt;h2 id="my-approach"&gt;My Approach
+&lt;/h2&gt;&lt;p&gt;I try to find security vulnerabilities before they become problems. Most of my work involves testing things until they break, then documenting exactly how they broke so someone can fix it. It&amp;rsquo;s less glamorous than it sounds—lots of reading documentation, testing edge cases, and occasionally realizing I&amp;rsquo;ve been chasing a false positive for three hours.&lt;/p&gt;
+&lt;h2 id="philosophy"&gt;Philosophy
+&lt;/h2&gt;&lt;p&gt;I believe in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Security Through Understanding&lt;/strong&gt; - You can&amp;rsquo;t protect what you don&amp;rsquo;t understand&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ethical Disclosure&lt;/strong&gt; - Responsible vulnerability reporting benefits everyone&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Learning&lt;/strong&gt; - Attack techniques evolve, so must we&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Breaking to Build&lt;/strong&gt; - Finding weaknesses makes systems stronger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="lets-connect"&gt;Let&amp;rsquo;s Connect
+&lt;/h2&gt;&lt;p&gt;I&amp;rsquo;m always open to discussing security research, collaboration opportunities, or connecting with fellow security enthusiasts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a class="link" href="https://github.com/siddharthsyal" target="_blank" rel="noopener"
+&gt;github.com/siddharthsyal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a class="link" href="https://www.linkedin.com/in/siddharthsyal" target="_blank" rel="noopener"
+&gt;linkedin.com/in/siddharthsyal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: Drop me a message through the contact links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;The difference between a hacker and a security researcher is mostly just proper authorization and significantly better documentation.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Bug Bounty</title><link>https://siddsyal.io/bug-bounty/</link><pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate><guid>https://siddsyal.io/bug-bounty/</guid><description>&lt;h1 id="bug-bounty-write-ups"&gt;Bug Bounty Write-ups
+&lt;/h1&gt;&lt;p&gt;Welcome to my bug bounty collection! Here you&amp;rsquo;ll find detailed write-ups of security vulnerabilities I&amp;rsquo;ve discovered, analysis of interesting security issues, and insights from my security research journey.&lt;/p&gt;
+&lt;h2 id="what-youll-find-here"&gt;What You&amp;rsquo;ll Find Here
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🔍 &lt;strong&gt;Vulnerability Discoveries&lt;/strong&gt; - Detailed analysis of security flaws&lt;/li&gt;
+&lt;li&gt;💰 &lt;strong&gt;Bug Bounty Reports&lt;/strong&gt; - Write-ups from various bug bounty programs&lt;/li&gt;
+&lt;li&gt;🛡️ &lt;strong&gt;Security Insights&lt;/strong&gt; - Lessons learned and security best practices&lt;/li&gt;
+&lt;li&gt;🔧 &lt;strong&gt;Tools &amp;amp; Techniques&lt;/strong&gt; - Security testing methodologies and tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="recent-bug-bounty-posts"&gt;Recent Bug Bounty Posts
+&lt;/h2&gt;&lt;p&gt;Browse all bug bounty related posts below, organized by most recent.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;All vulnerabilities disclosed here have been responsibly reported and fixed by the respective vendors.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Search</title><link>https://siddsyal.io/search/</link><pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate><guid>https://siddsyal.io/search/</guid><description/></item></channel></rss>
